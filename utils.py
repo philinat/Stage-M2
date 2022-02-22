@@ -14,7 +14,7 @@ import xarray as xr
 from cartopy.util import add_cyclic_point
 
 # Personnal functions
-from clim import *  # makes weighted montlhy computations
+# from clim import *  # makes weighted montlhy computations
 
 
 # =============================================================================
